@@ -1,16 +1,19 @@
-## Hi there 👋
+# AI Application Developer
 
-<!--
-**clin06585-dev/clin06585-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dify | Python | RAG | LLM Workflow Automation
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Resume Match Engine](https://github.com/clin06585-dev/resume-match-engine)
+AI-powered resume and job description matching engine built with Dify and Python.
+
+### [AI Customer Service Agent](https://github.com/clin06585-dev/ai-customer-service-agent)
+AI-powered customer service agent with product consultation, order tracking, refund support, and human handoff.
+
+## Skills
+
+- Dify Workflow
+- Python
+- RAG
+- LLM Application Development
+- Git & GitHub
